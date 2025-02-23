@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fopefoluwaikufisile" alt="fopefoluwaikufisile" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fopefoluwa" target="blank"><img src="https://img.shields.io/twitter/follow/fopefoluwa?logo=twitter&style=for-the-badge" alt="fopefoluwa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/FopefoluwaIkuf1" target="blank"><img src="https://img.shields.io/twitter/follow/fopefoluwa?logo=twitter&style=for-the-badge" alt="fopefoluwa" /></a> </p>
 
 - 🌱 I’m currently learning **React Js, Next Js**
 
