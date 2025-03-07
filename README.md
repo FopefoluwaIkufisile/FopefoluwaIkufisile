@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fopefoluwaikuf1" target="blank"><img src="https://img.shields.io/twitter/follow/fopefoluwaikuf1?logo=twitter&style=for-the-badge" alt="fopefoluwaikuf1" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Next Js**
+- 🌱 I’m currently learning **React Js, Next Js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://fopeportfolio.vercel.app](https://fopeportfolio.vercel.app)
 
