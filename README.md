@@ -25,19 +25,9 @@
 
 ---
 
-### 📊 GitHub Stats (Red theme)
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fopefoluwaikufisile&show_icons=true&hide_title=true&theme=dark&bg_color=0d1117&title_color=ff2d2d&text_color=c9d1d9&icon_color=ff2d2d&ring_color=ff2d2d&border_color=ff2d2d" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fopefoluwaikufisile&theme=dark&background=0d1117&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&border=ff2d2d" />
-</p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=fopefoluwaikufisile&layout=compact&theme=dark&bg_color=0d1117&title_color=ff2d2d&text_color=c9d1d9&border_color=ff2d2d" />
-</p>
 
 ---
-
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/fopefoluwaikufisile/fopefoluwaikufisile/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
