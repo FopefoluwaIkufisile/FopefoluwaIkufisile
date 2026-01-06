@@ -13,7 +13,7 @@
 
 ### 🔥 About me
 - 🌱 Currently learning **React, Next.js, TypeScript**
-- 👨‍💻 Projects: **https://fopeportfolio.vercel.app**
+- 👨‍💻 Projects: **https://portfoliofope.vercel.app**
 - 📫 Reach me: **fope.ikufisile@gmail.com**
 
 ---
