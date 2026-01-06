@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fopeportfolio.vercel.app">Portfolio</a> •
+  <a href="https://portfoliofope.vercel.app">Portfolio</a> •
   <a href="mailto:fope.ikufisile@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/fopefoluwa-ikufisile-0a5881296">LinkedIn</a>
 </p>
