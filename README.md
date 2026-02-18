@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.fopeikufisile.com">Portfolio</a> •
+  <a href="https://www.fopeikufisile.com">Portfolio</a> •
   <a href="mailto:fope.ikufisile@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/fopefoluwa-ikufisile-0a5881296">LinkedIn</a>
 </p>
