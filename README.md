@@ -29,5 +29,5 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fopefoluwaikufisile/fopefoluwaikufisile/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/fopefoluwaikufisile/fopefoluwaikufisile/output/github-contribution-grid-snake.svg?v=2" alt="snake animation" />
 </p>
