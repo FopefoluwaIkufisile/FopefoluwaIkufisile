@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fopefoluwa Ikufisile</h1>
 <p align="center">
-  Full-stack developer • React / Next.js / TypeScript
+  Full-stack developer •  Next.js / TypeScript / Node Js /• Cybersecurity enthusiast
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 🔥 About me
-- 🌱 Currently learning **React, Next.js, TypeScript**
+- 🌱 Currently learning **Cybersecurity 101 on TryHackme**
 - 👨‍💻 Projects: **https://www.fopeikufisile.com**
 - 📫 Reach me: **fope.ikufisile@gmail.com**
 
