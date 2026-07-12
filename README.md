@@ -12,7 +12,7 @@
 ---
 
 ### 🔥 About me
-- 🌱 Currently building <a href="https://www.fopital.com">fopital</a> •
+- 🌱 Currently building <a href="https://www.fopital.com">fopital</a>
 - 👨‍💻 Projects: **https://www.fopeikufisile.com** 
 - 📫 Reach me: **fope.ikufisile@gmail.com**
 
