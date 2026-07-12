@@ -12,8 +12,8 @@
 ---
 
 ### 🔥 About me
-- 🌱 Currently learning **Cybersecurity 101 on TryHackme**
-- 👨‍💻 Projects: **https://www.fopeikufisile.com**
+- 🌱 Currently building <a href="https://www.fopital.com">fopital</a> •
+- 👨‍💻 Projects: **https://www.fopeikufisile.com** 
 - 📫 Reach me: **fope.ikufisile@gmail.com**
 
 ---
