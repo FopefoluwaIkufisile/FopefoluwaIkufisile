@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fopefoluwa Ikufisile</h1>
 <p align="center">
-  Full-stack developer •  Next.js / TypeScript / Node Js /• Cybersecurity enthusiast
+  Full-stack developer •  Next.js / TypeScript / Node Js /• AI/ML Engineer enthusiast
 </p>
 
 <p align="center">
